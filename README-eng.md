@@ -19,4 +19,4 @@ BTSDAO committee will discuss and decide how to do the reduction when each reduc
 
 Subsequent steps will follow the same logic as described above.
 
-Anyone that want to join the liquidity mining can download the bts++ wallet at btspp.io. 
+Anyone that want to join the liquidity mining can download the bts++ wallet at https://btspp.io. 
