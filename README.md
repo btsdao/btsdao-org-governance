@@ -18,4 +18,4 @@ BTSDAO理事会是项目的管理者，其成员根据DEFI的持有情况选出�
 
 后续的执行步骤依此类推。
 
-参与DEFI挖矿和交易可使用bts++钱包，可从btspp.io下载。
+参与DEFI挖矿和交易可使用bts++钱包，可从 https://btspp.io 下载。
